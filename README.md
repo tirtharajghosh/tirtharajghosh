@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/tirtharajghosh/"><img align="right" width="350" height="263" src="https://github.com/tirtharajghosh/tirtharajghosh/blob/master/aboutme.gif"></a>
   - 🎓 I'm studying Master of Computer Application at Jadavpur University, Kolkata. I'm expecting to graduate in 2021.
   - 🚀 I'm working on improving my project <a href = "https://github.com/tirtharajghosh/Intelligent-Examination-System"> Intelligent Examination System</a> which is an online examination system with some rich features ( eg. Anti-cheat ).
+  - 💼 I'm actively seeking internship opportunities.
   - 📧 You can reach me at: tirtharajghosh.ju@gmail.com
-  - 💼 _I'm actively seeking internship opportunities._
+  - ⚡ Fun fact: I enjoy coffeine while coding, drinking 2-6 cup coffee per day.
 
 <p>&nbsp;</p>
 
