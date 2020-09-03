@@ -3,16 +3,16 @@
 </div>
  
 <p align='center'> 
-<a href="https://www.linkedin.com/in/trinwin/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://unsplash.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tirtharajghosh/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/tirtharajghosh.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://unsplash.com/@tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 Trinity Nguyen | 👩🏻‍💻 Software Engineer | 🌏 California, USA </h3>
+<h3> 👦 Tirtharaj Ghosh | 👨‍💻 Software Engineer | 🌏 Kolkata, India </h3>
 </div>
 
 <!--
