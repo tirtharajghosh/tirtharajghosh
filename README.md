@@ -9,7 +9,7 @@
 <a href="https://dev.to/tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/tirtharajghosh.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://unsplash.com/@tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/tirtharajghosh"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/tirtharajghosh.ju"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3> 👦 Tirtharaj Ghosh | 👨‍💻 Software Engineer | 🌏 Kolkata, India </h3>
