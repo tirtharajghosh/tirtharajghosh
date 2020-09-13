@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 ## 🚀 My Projects:
 <p align="center">
 <a href="https://github.com/tirtharajghosh/Intelligent-Examination-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Intelligent-Examination-System&theme=gruvbox" /></a>
-<a href="https://github.com/tirtharajghosh/tirtharajghosh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=tirtharajghosh&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tirtharajghosh&repo=Intelligent-Examination-System&theme=gruvbox" /></a>
+<a href="https://github.com/tirtharajghosh/Sorting-Algorithm-Visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tirtharajghosh&repo=Sorting-Algorithm-Visualizer/&theme=gruvbox" /></a>
 
   ---
