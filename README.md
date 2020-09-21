@@ -86,9 +86,6 @@
 <a href="https://twitter.com/levelplusplus">
   <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
-<a href="https://github.com/tirtharajghosh"> 
-  <img src="https://komarev.com/ghpvc/?username=tirtharajghosh&label=Visitors&color=2e8b57&style=for-the-badge" />
- </a>
 </p>
 
 <p>&nbsp;</p>
@@ -96,17 +93,17 @@
 ## 📈 My Stats:     
 <p align="center">
 <a href="https://github.com/tirtharajghosh">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirtharajghosh&count_private=true&show_icons=true&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tirtharajghosh&count_private=true&show_icons=true&hide=issues" /></a>
 <a href="https://github.com/tirtharajghosh/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtharajghosh&layout=compact&theme=gruvbox" /></a>
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtharajghosh&layout=compact" /></a>
   
 <p>&nbsp;</p>
 
 ## 🚀 My Projects:
 <p align="center">
 <a href="https://github.com/tirtharajghosh/Intelligent-Examination-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tirtharajghosh&repo=Intelligent-Examination-System&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tirtharajghosh&repo=Intelligent-Examination-System&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 <a href="https://github.com/tirtharajghosh/Sorting-Algorithm-Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tirtharajghosh&repo=Sorting-Algorithm-Visualizer&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tirtharajghosh&repo=Sorting-Algorithm-Visualizer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 
   ---
