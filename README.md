@@ -49,7 +49,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="react-native" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -61,7 +61,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows8" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-original.svg" alt="visualstudiocode" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudiocode" width="40" height="40"/>
   
 </div>
 
