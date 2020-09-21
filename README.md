@@ -30,7 +30,7 @@
 ## 📚 About Me:
 <a href="https://github.com/tirtharajghosh/"><img align="right" width="350" height="263" src="https://github.com/tirtharajghosh/tirtharajghosh/blob/master/aboutme.gif"></a>
   - 🎓 I'm studying Master of Computer Application at Jadavpur University, Kolkata. I'm expecting to graduate in 2021.
-  - 🌱 I’m currently learning Machine Learning.
+  - 🌱 I’m currently learning Data Science.
   - 💼 I'm actively seeking internship opportunities.
   - 📧 You can reach me at: tirtharajghosh.ju@gmail.com
   - ⚡ Fun fact: I enjoy coffeine while coding, drinking 2-6 cup coffee per day.
@@ -71,11 +71,25 @@
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href = "mailto:tirtharajghosh@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/tirtharajghosh><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/tirtharajghosh/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href = https://www.facebook.com/tirtharajghosh/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href = https://www.instagram.com/tirtharajghosh/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
+<a href="https://www.linkedin.com/in/tirtharajghosh/">
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
+</a>
+<a href="mailto:tirtharajghosh.ju@gmail.com?subject=Hello%20Tirtharaj,%20From%20Github">
+  <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=for-the-badge&logo=Gmail&labelColor=red&logoColor=white">
+</a>
+<a href="https://www.facebook.com/tirtharajghosh.ju/">
+  <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=for-the-badge&logo=Facebook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/levelplusplus/">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://twitter.com/levelplusplus">
+  <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+<a href="https://github.com/tirtharajghosh"> 
+  <img src="https://komarev.com/ghpvc/?username=tirtharajghosh&label=Visitors&color=2e8b57&style=for-the-badge" />
+ </a>
+</p>
 
 <p>&nbsp;</p>
 
