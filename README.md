@@ -59,9 +59,12 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows8" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudiocode" width="40" height="40"/>
+  
+<br/>
+<img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Browser-Chrome?style=for-the-badge&logo=chrome&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
   
 </div>
 
