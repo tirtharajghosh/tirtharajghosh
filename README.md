@@ -6,7 +6,7 @@
 <div align="center">
 <h3> 👦 Tirtharaj Ghosh | 👨‍💻 Software Engineer | 🌏 Kolkata, India </h3>
 </div>
-<p align="middle">
+<p align="center">
 <a href="https://www.linkedin.com/in/tirtharajghosh/">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
@@ -23,22 +23,10 @@
   <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
 </a>
 <a href="https://github.com/tirtharajghosh"> 
-  <img src="https://komarev.com/ghpvc/?username=tirtharajghosh&label=Visitors&color=2e8b57&style=flat" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tirtharajghosh&label=Visitors&color=2e8b57&style=flat" />
+ </a>
 </p>
-<!--
-**tirtharajghosh/tirtharajghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 📚 About Me:
 <a href="https://github.com/tirtharajghosh/"><img align="right" width="350" height="263" src="https://github.com/tirtharajghosh/tirtharajghosh/blob/master/aboutme.gif"></a>
   - 🎓 I'm studying Master of Computer Application at Jadavpur University, Kolkata. I'm expecting to graduate in 2021.
