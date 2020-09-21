@@ -34,7 +34,7 @@
   - 💼 I'm actively seeking internship opportunities.
   - 📧 You can reach me at: tirtharajghosh.ju@gmail.com
   - ⚡ Fun fact: I enjoy coffeine while coding, drinking 2-6 cup coffee per day.
-
+<br/>
 <p>&nbsp;</p>
 
 ## 👨🏻‍💻 My Languages/Tools:
@@ -93,7 +93,7 @@
 ## 📈 My Stats:     
 <p align="center">
 <a href="https://github.com/tirtharajghosh">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirtharajghosh&count_private=true&show_icons=true&hide=issues" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tirtharajghosh&count_private=true&show_icons=true&hide=issues,contribs" /></a>
 <a href="https://github.com/tirtharajghosh/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtharajghosh&layout=compact" /></a>
   
